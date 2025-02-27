@@ -1,7 +1,7 @@
 function login()
 {
-  let u = username.value
-  let p = pw.value
+  let u = tnpquyen1117.value
+  let p = umpoichopqnhe.value
   if (u=="hieu" && p=="123")
   {
     window.open("home.html")
